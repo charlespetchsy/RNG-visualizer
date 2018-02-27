@@ -14,5 +14,24 @@ Languages that will be tested include:
 - Bash
 - JavaScript
 
-## Results
+## Results (Placeholders for now)
+Java Output
+-----------
+```java
+public class HelloWorld {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+   }
+}
+```
+
+Python Output
+-------------
+```python 
+print("Hello, World!")
+```
+
+
+
 - TBD
