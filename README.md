@@ -5,7 +5,7 @@
 - Calculating running time for each algorithm
 
 ## Testing
-Languages that will be testing include:
+Languages that will be tested include:
 - Java
 - Python
 - R
