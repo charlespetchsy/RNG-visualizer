@@ -11,6 +11,8 @@ Languages that will be tested include:
 - R
 - Ruby
 - C/C++
+- C#
+- Objective-C
 - Bash
 - JavaScript
 
