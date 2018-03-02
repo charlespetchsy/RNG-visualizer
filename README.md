@@ -15,6 +15,7 @@ Languages that will be tested include:
 - Objective-C
 - Bash
 - JavaScript
+- Matlab
 
 ## Results (Placeholders for now)
 Java Output
